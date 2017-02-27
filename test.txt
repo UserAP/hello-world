@@ -1,2 +1,4 @@
 test file.. bla bla
 abcdefghijklmn
+
+še ena vrstica?
